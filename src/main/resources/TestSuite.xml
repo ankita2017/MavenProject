@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Regression Test">
+    <test name="Firefox">
+        <classes>
+            <class name="TestSuite"> </class>
+
+        </classes>
+
+    </test>
+
+</suite>
